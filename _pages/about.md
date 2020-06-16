@@ -1,13 +1,10 @@
 ---
 layout: page
-title: About Me
+title: Links
 permalink: /about/
 ---
 
-This is where you put the contents of your *About* page. Like all your pages, it's in [Markdown](https://guides.github.com/features/mastering-markdown/) format.
+[LinkedIn](https://www.linkedin.com/in/rafaelmacalaba/)
+[Github](https://github.com/rafmacalaba)
+[Kaggle](https://www.kaggle.com/leafar)
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
-
-
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
