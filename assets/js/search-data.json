@@ -6,8 +6,8 @@
 
   
       "page1": {
-          "title": "Links",
-          "content": "LinkedIn Github Kaggle .",
+          "title": "About Me",
+          "content": "LinkedIn . Github . Kaggle .",
           "url": "https://rafmacalaba.github.io/rafaelmacalaba/about/",
           "relUrl": "/about/",
           "date": ""
