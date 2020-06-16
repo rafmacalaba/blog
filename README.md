@@ -6,24 +6,23 @@
 
 https://rafmacalaba.github.io/rafaelmacalaba/
 
-# My Blog
+# Rafael Macalaba Blog
 
 
 _powered by [fastpages](https://github.com/fastai/fastpages)_
 
 
-## What To Do Next?
+## Welcome to my Personal Blog!
 
-Great!  You have setup your repo.  Now its time to start writing content.  Some helpful links:
 
-- [Writing Blogs With Jupyter](https://github.com/fastai/fastpages#writing-blog-posts-with-jupyter)
+Hi! I'm Rafael Macalaba, currently a Data Scientist at AXA Philippines. My main interest is in revolves around Data Science and Finance. 
 
-- [Writing Blogs With Markdown](https://github.com/fastai/fastpages#writing-blog-posts-with-markdown)
+I am a self-learn Python programmer and Data Scientist with experience in different fields such as Finance, Trading, Data Engineering, DevOps, Automation, Infrastructure Engineering and Data Warehousing. 
 
-- [Writing Blog Posts With Word](https://github.com/fastai/fastpages#writing-blog-posts-with-microsoft-word)
+I'm currently contributing to an open-source library for backtesting/algorithmic trading called [fastquant](https://github.com/enzoampil/fastquant). The development and addition of interesting strategies to trade is going really fast so make sure you guys check it out!
 
-- [(Optional) Preview Your Blog Locally](_fastpages_docs/DEVELOPMENT.md)
+Thank you and hope you guys read on my posts!
 
-Note: you may want to remove example blog posts from the `_posts`,  `_notebooks` or `_word` folders (but leave them empty, don't delete these folders) if you don't want these blog posts to appear on your site.
 
-Please use the [nbdev & blogging channel](https://forums.fast.ai/c/fastai-users/nbdev/48) in the fastai forums for any questions or feature requests.
+-Rafael
+
