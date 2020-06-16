@@ -6,7 +6,7 @@
 
   
       "page1": {
-          "title": "About Me",
+          "title": "About",
           "content": "LinkedIn . Github . Kaggle .",
           "url": "https://rafmacalaba.github.io/rafaelmacalaba/about/",
           "relUrl": "/about/",
