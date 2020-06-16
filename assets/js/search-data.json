@@ -1,22 +1,11 @@
 {
   
-    
-        "post0": {
-            "title": "Welcome to my Personal Blog!",
-            "content": "Hi! I’m Rafael Macalaba, currently a Data Scientist at AXA Philippines. My main interest is in revolves around Data Science and Finance. . I am a self-learn Python programmer and Data Scientist with experience in different fields such as Finance, Trading, Data Engineering, DevOps, Automation, Infrastructure Engineering and Data Warehousing. . I’m currently contributing to an open-source library for backtesting/algorithmic trading called fastquant. The development and addition of interesting strategies to trade is going really fast so make sure you guys check it out! . Thank you and hope you guys read on my posts! . -Rafael .",
-            "url": "https://rafmacalaba.github.io/rafaelmacalaba/markdown/2020/06/18/Welcome-to-my-Blog.html",
-            "relUrl": "/markdown/2020/06/18/Welcome-to-my-Blog.html",
-            "date": " • Jun 18, 2020"
-        }
-        
-    
-  
 
   
   
 
   
-      ,"page1": {
+      "page1": {
           "title": "About Me",
           "content": "This is where you put the contents of your About page. Like all your pages, it’s in Markdown format. . This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
           "url": "https://rafmacalaba.github.io/rafaelmacalaba/about/",
