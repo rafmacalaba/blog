@@ -12,7 +12,5 @@ You can connect with me using the following links:
 
 [Kaggle](https://www.kaggle.com/leafar)  
 
-[Personal Email](rafael.macalaba@yahoo.com)
-
-[Professional Email](rafael.macalaba@axa.com.ph)
+[mailto](mailto:rafael.macalaba@yahoo.com)
 
