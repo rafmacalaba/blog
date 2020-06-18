@@ -1,1 +1,1 @@
-Sitemap: https://rafmacalaba.github.io/rafaelmacalaba/sitemap.xml
+Sitemap: https://rafmacalaba.github.io/blog/sitemap.xml
