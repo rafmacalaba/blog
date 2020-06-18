@@ -37,12 +37,12 @@ url: "https://rafmacalaba.github.io" # the base hostname & protocol for your sit
 baseurl: "/rafaelmacalaba" # the subpath of your site, e.g. "/blog".
 
 # Github and twitter are optional:
-# email: "rafael.macalaba@yahoo.com"
-# twitter_username: "jhermann_"
 minima:
   social_links:
     linkedin: rafaelmacalaba
     github: rafmacalaba
+    kaggle: leafar
+    instagram: bohemianrafsyyydy
 
 # Set this to true to get LaTeX math equation support
 use_math: 
