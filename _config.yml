@@ -10,7 +10,7 @@ title: Rafael Macalaba
 description: "Python · Data Science · Finance · Data Engineering"
 github_username: rafmacalaba
 # you can comment the below line out if your repo name is not different than your baseurl
-github_repo: "rafaelmacalaba"
+github_repo: "blog"
 
 # OPTIONAL: override baseurl and url if using a custom domain
 # Note: leave out the trailing / from this value. 
@@ -34,7 +34,7 @@ url: "https://rafmacalaba.github.io" # the base hostname & protocol for your sit
 #
 # 3. You must replace the parameter `baseurl` in _action_files/settings.ini with the same value as you set here but WITHOUT QUOTES.
 #
-baseurl: "/rafaelmacalaba" # the subpath of your site, e.g. "/blog".
+baseurl: "/blog" # the subpath of your site, e.g. "/blog".
 
 # Github and twitter are optional:
 minima:
@@ -78,56 +78,27 @@ html_escape:
   description: false
 
 # # Everything below here should be left alone. Modifications may break fastpages
-# future: true
-# theme: minima
-# plugins:
-#   - jekyll-feed
-#   - jekyll-gist
-#   - jekyll-octicons
-#   - jekyll-toc
-#   - jekyll-twitter-plugin
-#   - jekyll-relative-links
-#   - jekyll-seo-tag
-#   - jekyll-remote-theme
-#   - jekyll-paginate
-#   - jekyll-sitemap
-#   - jemoji
-
-# # See https://jekyllrb.com/docs/pagination/
-# # For pagination to work, you cannot have index.md at the root of your repo, instead you must rename this file to index.html
-# paginate: 15
-# paginate_path: /page:num/
-
-# remote_theme: jekyll/minima
-
-# titles_from_headings:
-#   enabled:     true
-#   strip_title: true
-#   collections: true
-
-# highlighter: rouge
-# markdown: kramdown
-# kramdown:
-#   math_engine: katex
-#   input: GFM
-#   auto_ids: true
-#   hard_wrap: false
-#   syntax_highlighter: rouge
-# Everything below here should be left alone. Modifications may break fastpages
+future: true
 theme: minima
 plugins:
   - jekyll-feed
   - jekyll-gist
   - jekyll-octicons
-  - jekyll-github-metadata
   - jekyll-toc
   - jekyll-twitter-plugin
   - jekyll-relative-links
   - jekyll-seo-tag
+  - jekyll-remote-theme
+  - jekyll-paginate
   - jekyll-sitemap
+  - jemoji
 
-minima:
-    date_format: "%Y-%m-%d"
+# See https://jekyllrb.com/docs/pagination/
+# For pagination to work, you cannot have index.md at the root of your repo, instead you must rename this file to index.html
+paginate: 15
+paginate_path: /page:num/
+
+remote_theme: jekyll/minima
 
 titles_from_headings:
   enabled:     true
